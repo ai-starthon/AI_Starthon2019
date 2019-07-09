@@ -34,7 +34,7 @@ AI를 활용한 아이디어와 경험을 현실로 만들 수 있도록 과학�
     <td>
       <strong>참가 신청</strong><br>
     </td>
-    <td style="text-align:center">2019년 6월 25일 ~ 7월 12일</td>
+    <td style="text-align:center">2019년 6월 25일 ~ 7월 19일</td>
    <td>
       온라인<br>
     </td>
@@ -43,7 +43,7 @@ AI를 활용한 아이디어와 경험을 현실로 만들 수 있도록 과학�
     <td>
       <strong>사전교육</strong><br>
     </td>
-    <td style="text-align:center"> 2019년 7월 9일 </td>
+    <td style="text-align:center"> 2019년 7월 18일 </td>
    <td>
       네이버 본사<br>
     </td>
@@ -52,14 +52,14 @@ AI를 활용한 아이디어와 경험을 현실로 만들 수 있도록 과학�
     <td>
       <strong>경진대회</strong><br>
     </td>
-    <td style="text-align:center">2019년 7월 15일~7월 25일(약 2주간)</td>
+    <td style="text-align:center">2019년 7월 22일~8월 1일(약 2주간)</td>
  <td> 온라인 <br>
     </td>
    <tr>
     <td>
       <strong>사업설명회</strong><br>
     </td>
-    <td style="text-align:center">2019년 7월 30일 </td>
+    <td style="text-align:center">2019년 8월 2일 </td>
       <td>
       네이버 본사<br>
     </td>
@@ -67,7 +67,7 @@ AI를 활용한 아이디어와 경험을 현실로 만들 수 있도록 과학�
     <td>
       <strong>사업계획서 접수</strong><br>
     </td>
-    <td style="text-align:center">2019년 7월 29일 ~8월 2일</td>
+    <td style="text-align:center">2019년 8월 5일 ~ 8월 9일</td>
          <td>
       개별안내<br>
     </td>
@@ -77,7 +77,7 @@ AI를 활용한 아이디어와 경험을 현실로 만들 수 있도록 과학�
     <td>
       <strong>워크샵</strong><br>
     </td>
-    <td style="text-align:center"> 8월 말(1박2일) </td>
+    <td style="text-align:center"> 9월 2일 ~ 9월 3일(1박2일) </td>
    <td>
       네이버 CONECT ONE(춘천)<br>
     </td>
@@ -99,17 +99,14 @@ AI를 활용한 아이디어와 경험을 현실로 만들 수 있도록 과학�
 2. 그룹2 : 창업 후 3년 이상 된 기업<br>
 ※ 그룹1과 그룹2는 별개의 리그로 운영합니다.<br>
 
-#### 예선
-- 약 20개 주제 중 한 팀당 3개 주제 지원 가능<br>
-- 예선을 통해 상위 30팀 본선 진출(그룹1:상위 20팀/ 그룹2:상위 10팀)<br>
-
-#### 본선
-- 약 20개 주제 중 한 팀당 최대 2개 주제 지원 가능(예선 선택 주제와 교차 지원 가능)<br>
-- 본선을 통해 상위 20팀 선발(그룹1:상위 15팀/ 그룹2:상위 5팀)<br>
+#### 경진대회
+- 약 20개 주제 중 한 팀당 최대 3개 주제 지원 가능<br>
+- 주제별 문제에 대한 누적점수로 최종순위 반영<br>
+- 상위 30팀 선발(그룹1:상위 20팀/ 그룹2:상위 10팀)<br>
 
 #### 최종 순위
 **1등 : 1000 점 /  2등 : 300점 / 3등 250점**<br>
-※ 예선과 본선에 대한 누적 점수로 최종 순위 반영 <br>
+※ 경진대회 누적 점수로 최종 순위 반영 <br>
 ※ 사업화 지원 자격 부여 기업 수는 대회 운영 사무국 및 경진대회 평가 결과에 따라 변경될 수 있습니다. <br>
 
 ## 문의

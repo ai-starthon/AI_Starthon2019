@@ -77,9 +77,9 @@ AI를 활용한 아이디어와 경험을 현실로 만들 수 있도록 과학�
     <td>
       <strong>워크샵</strong><br>
     </td>
-    <td style="text-align:center"> 9월 2일 ~ 9월 3일(1박2일) </td>
+    <td style="text-align:center"> 2019년 9월 2일 ~ 9월 3일(1박2일) </td>
    <td>
-      네이버 CONECT ONE(춘천)<br>
+      네이버 CONNECT ONE(춘천)<br>
     </td>
   </tr>
 </table>

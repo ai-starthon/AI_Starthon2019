@@ -10,7 +10,7 @@ AI를 활용한 아이디어와 경험을 현실로 만들 수 있도록 과학�
 여러분의 반짝이는 아이디어를 발굴하여 비즈니스적 가치를 높이고<br>
 기술의 완성도를 높일 수 있도록 과학기술정보통신부에서 **AI Starthon**을 준비했습니다. <br>
 
-이번 AI Starthon은 네이버의 클라우드 머신러닝 플랫폼인 <strong>[NSML](https://hack.nsml.navercorp.com/intro)</strong>과 함께 합니다.
+이번 AI Starthon은 네이버의 클라우드 머신러닝 플랫폼인 <strong>[NSML](https://nipa.nsml.navercorp.com/intro)</strong>과 함께 합니다.
 
 <strong>NSML(Naver Smart Machine Learning)</strong>은 모델을 연구하고 개발하는 데 필요한 복잡한 과정을 대신 처리해주어<br>
 모델링 개발에 다양한 시도를 쉽게 할 수 있는 환경을 제공할 것입니다.

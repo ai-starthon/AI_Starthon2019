@@ -111,4 +111,4 @@ AI를 활용한 아이디어와 경험을 현실로 만들 수 있도록 과학�
 
 ## 문의
 issue 페이지에 문의글을 남기시면 담당자가 답변드립니다. <br>
-개인사항이 포함된 문의는 dl_aistarthon@navercorp.com 으로 메일주세요. 
+개인사항이 포함된 문의는 dl_ai_starthon@navercorp.com 으로 메일주세요. 

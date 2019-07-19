@@ -34,7 +34,7 @@ AI를 활용한 아이디어와 경험을 현실로 만들 수 있도록 과학�
     <td>
       <strong>참가 신청</strong><br>
     </td>
-    <td style="text-align:center">2019년 6월 25일 ~ 7월 19일</td>
+    <td style="text-align:center">2019년 6월 25일 ~ 7월 21일 14시</td>
    <td>
       온라인<br>
     </td>
@@ -52,7 +52,7 @@ AI를 활용한 아이디어와 경험을 현실로 만들 수 있도록 과학�
     <td>
       <strong>경진대회</strong><br>
     </td>
-    <td style="text-align:center">2019년 7월 22일~8월 1일(약 2주간)</td>
+    <td style="text-align:center">2019년 7월 22일 17시~8월 1일 17시(약 2주간)</td>
  <td> 온라인 <br>
     </td>
    <tr>

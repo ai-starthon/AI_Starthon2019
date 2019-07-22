@@ -64,7 +64,7 @@ NIPA AI STARTHON 2019 MRC Baseline with CLaF
 python main.py --base_config base_config/baseline.json
 
 # nsml
-nsml run -d nipa_mrc -g 1 --memory "50GB" -e main.py -a "--base_config base_config/baseline.json" -v
+nsml run -d 19_tcls_qa -g 1 --memory "50GB" -e main.py -a "--base_config base_config/baseline.json" -v
 ```
 - Submit
     - Submit 시에는 Vocab을 로딩하는 과정이 필요합니다. 그래서 `def test()` 함수 안에 있는 `NSML_CHECKPOINT`, `NSML_SESSION` 이 두 변수에 제출에 사용하는 세션과 체크포인트를 입력한 후 아래 커맨드를 입력합니다.

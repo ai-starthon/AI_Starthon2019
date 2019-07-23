@@ -9,7 +9,7 @@ L1 distance in RGB space between synthesized image and GT
 ## example data
 input, mask, GT
 
-<img width=200 src="https://oss.navercorp.com/youngjung-uh/nipa_inpaint/blob/master/example/x_input.png"/> <img width=200 src="https://oss.navercorp.com/youngjung-uh/nipa_inpaint/blob/master/example/x_mask.png"/> <img width=200 src="https://oss.navercorp.com/youngjung-uh/nipa_inpaint/blob/master/example/x_GT.png"/>
+<img width=200 src="https://github.com/ai-starthon/AI_Starthon2019/blob/master/14_ig5_inpaint/example/x_input.png"/> <img width=200 src="https://github.com/ai-starthon/AI_Starthon2019/blob/master/14_ig5_inpaint/example/x_mask.png"/> <img width=200 src="https://github.com/ai-starthon/AI_Starthon2019/blob/master/14_ig5_inpaint/example/x_GT.png"/>
 
 ## stats
 

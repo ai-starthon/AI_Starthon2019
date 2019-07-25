@@ -30,7 +30,7 @@ mean of intersection-over-union (mIoU)
 How to run:
 
 ```bash
-nsml run -v -d 12_idet_food -g 1 --cpus 2 -e main.py
+nsml run  -d 12_idet_food -g 1 --cpus 2 -e main.py
 ```
 
 How to list checkpoints saved:
@@ -42,6 +42,6 @@ nsml model ls {USER_ID}/12_idet_food/{SESSION_NUMBER}
 How to submit:
 
 ```bash
-nsml submit -v {USER_ID}/12_idet_food/{SESSION_NUMBER} {CHEKCOPOINT_NUMBER}
+nsml submit  {USER_ID}/12_idet_food/{SESSION_NUMBER} {CHEKCOPOINT_NUMBER}
 ```
 

@@ -36,6 +36,6 @@ nsml model ls nipachallenger/14_ig5_inpaint/1
 ## How to submit:
 
 ```bash
-# nsml submit -v YOUR_ID/14_ig5_inpaint/SESSION_NUM CKPT_EPOCH
-nsml submit -v nipachallenger/14_ig5_inpaint/1 9
+# nsml submit  YOUR_ID/14_ig5_inpaint/SESSION_NUM CKPT_EPOCH
+nsml submit  nipachallenger/14_ig5_inpaint/1 9
 ```

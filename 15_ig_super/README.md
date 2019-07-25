@@ -20,7 +20,7 @@ Please note that **PSNR is calculated using the _"Y"_ channel (YCbCr) only**. Th
 
 ### How to run 
 ```
-nsml run -v -d 15_ig_super -g 1 --memory 12G --shm-size 32G --cpus 1 -e main.py
+nsml run  -d 15_ig_super -g 1 --memory 12G --shm-size 32G --cpus 1 -e main.py
 ```
 : You are running "main.py" as main on the dataset "15_ig_super"
 ### How to check your session logs

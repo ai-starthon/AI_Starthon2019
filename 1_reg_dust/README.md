@@ -22,7 +22,7 @@ Output: 다음시간의 (미세먼지, 초미세먼지)
 How to run:
 
 ```bash
-nsml run -v -d 1_reg_dust -g 1 --memory 12G --shm-size 16G --cpus 4 -e main.py
+nsml run -d 1_reg_dust -g 1 --memory 12G --shm-size 16G --cpus 4 -e main.py
 ```
 
 How to list checkpoints saved:
@@ -34,5 +34,5 @@ nsml model ls [NSML ID]/1_reg_dust/[Session Number] (e.g.) nsml model ls KR77777
 How to submit:
 
 ```bash
-nsml submit -v [NSML ID]/1_reg_dust/[Session Number] [check idx] (e.g) nsml submit -v KR77777/1_reg_dust/2 100)
+nsml submit [NSML ID]/1_reg_dust/[Session Number] [check idx] (e.g) nsml submit KR77777/1_reg_dust/2 100)
 ```

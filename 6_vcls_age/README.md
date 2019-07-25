@@ -24,7 +24,7 @@ image resolution: 3x180x320
 To train your age classifier on the dataset "6_vcls_age", run the command below.
 
 ```
-nsml run -v -d 6_vcls_age --shm-size 24G -e main.py
+nsml run -d 6_vcls_age --shm-size 24G -e main.py
 ```
 
 #### How to check session logs
@@ -41,7 +41,7 @@ nsml model ls nsmlteam/6_vcls_age/1
 #### How to submit
 The following command is an example of running the evaluation code using the model checkpoint at 10th epoch.
 ```
-nsml submit -v nsmlteam/6_vcls_age/1 10
+nsml submit nsmlteam/6_vcls_age/1 10
 ```
 
 #### How to check leaderboard

@@ -56,7 +56,7 @@ For example, "아반떼 HD (red)" and "아반떼 MD (silver)" are in the same cl
 ### Run your code
 
 ```bash
-nsml run -v -d 9_iret_car
+nsml run  -d 9_iret_car
 ```
 
 **More tips**
@@ -77,7 +77,7 @@ Check your models.
 ### Submit your model
 
 ```bash
-nsml submit -v [your_session_name] [model_name]
+nsml submit  [your_session_name] [model_name]
 # e.g., nsml model ls username/9_iret_car/1 100
 ```
 

@@ -17,7 +17,7 @@ NIPA AI STARTHON 2019 Intent Classification Baseline
 **train**
 
 ```bash
-nsml run -e main.py -d 17_tcls_intent -g 1 -a "--embed_dim 256 --hidden_dim 512 --batch_size 256" -v
+nsml run -e main.py -d 17_tcls_intent -g 1 -a "--embed_dim 256 --hidden_dim 512 --batch_size 256" 
 ```
 
 **list saved checkpoint**

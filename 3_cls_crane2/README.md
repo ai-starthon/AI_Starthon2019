@@ -22,7 +22,7 @@ nsml model ls nsmlteam/3_cls_crane2/1
 #### How to submit
 The following command is an example of running the evaluation code using the model checkpoint at 10th epoch.
 ```
-nsml submit -v nsmlteam/3_cls_crane2/1 1
+nsml submit  nsmlteam/3_cls_crane2/1 1
 ```
 
 #### How to check leaderboard

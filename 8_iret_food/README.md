@@ -43,7 +43,7 @@ accuracy = (평가셋 중 맞았던 쿼리 개수) / (평가셋에 있는 이미
 베이스라인 모델 학습 시작 방법
 
 ```bash
-nsml run -v -d 8_iret_food -g 1 --memory 12G --shm-size 32G --cpus 10 -e main.py
+nsml run  -d 8_iret_food -g 1 --memory 12G --shm-size 32G --cpus 10 -e main.py
 ```
 
 학습이 시작되면 `{USER_ID}/8_iret_food/{SESSION_NUMBER}` 정보가 출력됩니다.
@@ -56,6 +56,6 @@ nsml model ls {USER_ID}/8_iret_food/{SESSION_NUMBER}
 모델을 평가 서버에 보내서 리더보드에 올릴 수 있습니다.
 
 ```bash
-nsml submit -v {USER_ID}/8_iret_food/{SESSION_NUMBER} {CHECKPOINT_NUMBER}
+nsml submit  {USER_ID}/8_iret_food/{SESSION_NUMBER} {CHECKPOINT_NUMBER}
 ```
 

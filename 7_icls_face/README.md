@@ -31,14 +31,10 @@ The baseline code implemented is a simple classification code, and of course, do
 
 Pushing dataset (at the root of the folder you want to upload):
 
-```bash
-nsml dataset push -v -f -l 7_icls_face /local/path/to/dataset/
-```
-
 How to run:
 
 ```bash
-nsml run -v -d 7_icls_face -g 1 --memory 12G --shm-size 32G --cpus 10 -e main.py
+nsml run  -d 7_icls_face -g 1 --memory 12G --shm-size 32G --cpus 10 -e main.py
 ```
 
 How to list checkpoints saved:
@@ -50,5 +46,5 @@ nsml model ls KR18588/7_icls_face/1
 How to submit:
 
 ```bash
-nsml submit -v KR18588/7_icls_face/1 10
+nsml submit  KR18588/7_icls_face/1 10
 ```

@@ -43,7 +43,7 @@ accuracy = (평가셋 중 맞았던 쿼리 개수) / (평가셋에 있는 이미
 베이스라인 모델 학습 시작 방법
 
 ```bash
-nsml run  -d 8_iret_food -g 1 --memory 12G --shm-size 32G --cpus 10 -e main.py
+nsml run  -d 8_iret_food -g 1 --memory 12G --cpus 10 -e main.py
 ```
 
 학습이 시작되면 `{USER_ID}/8_iret_food/{SESSION_NUMBER}` 정보가 출력됩니다.

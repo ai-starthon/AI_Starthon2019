@@ -115,13 +115,13 @@ if __name__ == '__main__':
     #tr_X = np.load(DATASET_PATH + '/train/train_data.npy')    
     #tr_Y = np.load(DATASET_PATH + '/train/train_label.npy') # numpy array of labels. They are all zeros!!
 
-        EP, LR = 100, 0.01    
+        EP, LR = 100, 0.001    
         crit = torch.nn.MSELoss(reduction='mean')
         opt = torch.optim.SGD(model.parameters(), lr=LR)
     # Train
         for ep in range(EP):
             p_Y = model(tr_X/mean10_val)    
-            loss = 0.3*crit(p_Y[:][0], tr_Y[:][0])+0.7*crit(p_Y[:][1], tr_Y[:][1])    
+            loss = 0.3*crit(p_Y[:,0], tr_Y[:,0])+0.7*crit(p_Y[:,1], tr_Y[:,1])    
         
             opt.zero_grad()
             loss.backward()

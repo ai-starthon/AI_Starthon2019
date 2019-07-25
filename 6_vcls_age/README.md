@@ -24,7 +24,7 @@ image resolution: 3x180x320
 To train your age classifier on the dataset "6_vcls_age", run the command below.
 
 ```
-nsml run -d 6_vcls_age --shm-size 24G -e main.py
+nsml run -d 6_vcls_age -e main.py
 ```
 
 #### How to check session logs

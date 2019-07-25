@@ -22,7 +22,7 @@ input, mask, GT
 ## How to run:
 
 ```bash
-nsml run -d 14_ig5_inpaint -e main.py --shm-size 24G
+nsml run -d 14_ig5_inpaint -e main.py 
 ```
 
 ## How to list checkpoints saved:

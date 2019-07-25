@@ -24,7 +24,7 @@ image resolution: 3x180x320
 To train your emotion classifier on the dataset "5_vcls_emotion", run the command below.
 
 ```
-nsml run  -d 5_vcls_emotion --shm-size 24G -e main.py
+nsml run  -d 5_vcls_emotion -e main.py
 ```
 
 #### How to check session logs

@@ -34,7 +34,7 @@ Pushing dataset (at the root of the folder you want to upload):
 How to run:
 
 ```bash
-nsml run  -d 7_icls_face -g 1 --memory 12G --shm-size 32G --cpus 10 -e main.py
+nsml run  -d 7_icls_face -g 1 --memory 12G --cpus 10 -e main.py
 ```
 
 How to list checkpoints saved:

@@ -8,7 +8,7 @@ def weighted_mse(targets, predicts):
     #sum_val = 0.0
     pred = np.asarray(predicts)
     gt = np.asarray(targets)
-    w_mse = 0.3*mean_squared_error(gt[:][0], pred[:][0]) + 0.7*mean_squared_error(gt[:][1], pred[:][1])
+    w_mse = 0.3*mean_squared_error(gt[:,0], pred[:,0]) + 0.7*mean_squared_error(gt[:,1], pred[:,1])
     #for idx, v in enumerate(targets):
     #    #try:
     #        sum_val += (0.3*(v[0]-predicts[idx][0])*(v[0]-predicts[idx][0])+0.7*(v[1]-predicts[idx][1])*(v[1]-predicts[idx][1]))

@@ -47,11 +47,11 @@ class MultimodalDataset(Dataset):
         if self.phase == 'train':
             shot_path = os.path.join(self.root, self.phase, self.phase.split('_')[0]+'_data', self.shot_list[idx])
             img_name_list = os.listdir(shot_path)
-            for idx, img_name in enumerate(img_name_list):
+            for i, img_name in enumerate(img_name_list):
                 if 'txt' not in img_name:
                     img = Image.open(os.path.join(shot_path, img_name)).resize((320, 180))
                     img = ToTensor()(img)
-                    if idx == 0:
+                    if i == 0:
                         imgs = img
                     else:
                         imgs = torch.cat((imgs, img), 0)
@@ -63,11 +63,11 @@ class MultimodalDataset(Dataset):
         else:
             shot_path = os.path.join(self.root, self.phase, self.phase.split('_')[0]+'_data', self.shot_list[idx])
             img_name_list = os.listdir(shot_path)
-            for idx, img_name in enumerate(img_name_list):
+            for i, img_name in enumerate(img_name_list):
                 if 'txt' not in img_name:
                     img = Image.open(os.path.join(shot_path, img_name)).resize((320, 180))
                     img = ToTensor()(img)
-                    if idx == 0:
+                    if i == 0:
                         imgs = img
                     else:
                         imgs = torch.cat((imgs, img), 0)

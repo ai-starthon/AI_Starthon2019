@@ -48,6 +48,7 @@ class TestDataset(data.Dataset):
         if self.transform is not None:
             masked = self.transform(masked)
             mask = self.transform(mask)
+        mask = (mask > 0.5).float()
 
         return fname, masked, mask[:1]
 
